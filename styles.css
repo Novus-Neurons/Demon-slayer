@@ -1,5 +1,5 @@
 body{
-    background-image: radial-gradient(blue,violet);
+    background-image: radial-gradient();
 }
 .brand1{
     font-size:40px;
@@ -13,15 +13,15 @@ body{
     text-align: center;
     font-weight: 900;
     font-size: 60px;
-    color: black;
-    text-shadow:2px 4px 4px aqua;
+    color:  #ECEFA4;
+    text-shadow:2px 4px 4px brown;
     text-decoration: underline;
 }
 img{
    object-fit: contain;
 }
 .card-bg{
-    background-color: rgb(174, 184, 86);
+    background-color: rgb(210, 219, 129);
 }
 h2{
     color: black;
@@ -33,7 +33,7 @@ h2{
   color: black;
 }
 body {
-  background-color: white;
+  background-color: #FF2626;
   font-family: "Righteous", cursive;
   font-weight: bold;
 }
