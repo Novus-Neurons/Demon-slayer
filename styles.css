@@ -44,7 +44,7 @@ h2 {
 #para {
   text-align: center;
   font-size: 20px;
-  color: black;
+  color: whitesmoke;
 }
 body {
   background-color: #131111;
@@ -82,7 +82,10 @@ h1 {
   padding: 15px;
 }
 .about-title {
-  padding-top: 2%;
+  color: tan;
+  padding-top: 4%;
+  padding-left: 6%;
+  margin-bottom: 4%;
 }
 
 @media only screen and (max-width: 600px) {
