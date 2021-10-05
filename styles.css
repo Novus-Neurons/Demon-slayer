@@ -1,30 +1,44 @@
-body{
-    background-image: radial-gradient();
+body {
+  background-image: radial-gradient();
 }
-.brand1{
-    font-size:40px;
-    font-weight: bolder;
-    text-shadow:1px blue;
+
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
 }
-.nav1{
-    background-color: black;
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: white;
+  border-radius: 10px;
 }
-.topic{
-    text-align: center;
-    font-weight: 900;
-    font-size: 60px;
-    color:  tan;
-    text-shadow:2px 4px 4px brown;
-    text-decoration: underline;
+
+.brand1 {
+  font-size: 40px;
+  font-weight: bolder;
+  text-shadow: 1px blue;
 }
-img{
-   object-fit: contain;
+.nav1 {
+  background-color: black;
 }
-.card-bg{
-    background-color: rgb(210, 219, 129);
+.topic {
+  text-align: center;
+  font-weight: 900;
+  font-size: 60px;
+  color: rgb(182, 43, 18);
+  text-shadow: 2px 4px 4px rgb(32, 24, 24);
+  text-decoration: underline;
 }
-h2{
-    color: black;
+img {
+  object-fit: contain;
+}
+.card-bg {
+  background-color: rgb(202, 202, 198);
+  border-radius: 15px;
+}
+h2 {
+  color: black;
+  font-size: largest;
 }
 /*about*/
 #para {
@@ -33,7 +47,7 @@ h2{
   color: black;
 }
 body {
-  background-color: #FF2626;
+  background-color: #131111;
   font-family: "Righteous", cursive;
   font-weight: bold;
 }
@@ -61,8 +75,8 @@ h1 {
   padding-left: 50px;
   size: 50px;
 }
-.row1{
-    margin-top: 6%;
+.row1 {
+  margin-top: 6%;
 }
 .itemNav {
   padding: 15px;
