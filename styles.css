@@ -25,18 +25,20 @@ body {
   text-align: center;
   font-weight: 900;
   font-size: 60px;
-  color: tan;
-  text-shadow: 2px 4px 4px brown;
+  color: rgb(182, 43, 18);
+  text-shadow: 2px 4px 4px rgb(32, 24, 24);
   text-decoration: underline;
 }
 img {
   object-fit: contain;
 }
 .card-bg {
-  background-color: rgb(210, 219, 129);
+  background-color: rgb(202, 202, 198);
+  border-radius: 15px;
 }
 h2 {
   color: black;
+  font-size: largest;
 }
 /*about*/
 #para {
@@ -45,7 +47,7 @@ h2 {
   color: black;
 }
 body {
-  background-color: #ff2626;
+  background-color: #131111;
   font-family: "Righteous", cursive;
   font-weight: bold;
 }
